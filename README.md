@@ -1,6 +1,6 @@
 # Project-Woodland
 
-A briefly introduction to the work (for complete presentation go to folder "5.Project Summary"
+A briefly introduction to the project-work (for the complete presentation go to the folder "5.Project Summary"
 
 ![Consegna- presentazione_page-0001](https://user-images.githubusercontent.com/78934727/175819350-81f8484d-133a-4ec8-98f1-c7d20c37d852.jpg)
 ![Consegna- presentazione_page-0002](https://user-images.githubusercontent.com/78934727/175819380-d8383421-f0f6-464a-8e78-7fffde75cc01.jpg)
